@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome! 🚩
 
 This Is The Website of Garuda. I write about Religion , Politics , Philosophy and Science. 
 
