@@ -14,10 +14,10 @@ body {
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
-  color: $color-text;
+  color: #000000;
   font-size: 1rem;
   max-width: 63em;
-
+  
   @media (min-width: 820px) {
     font-size: 1.2rem;
   }
