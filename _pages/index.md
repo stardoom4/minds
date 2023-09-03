@@ -7,21 +7,19 @@ permalink: /
 
 # Welcome! 🙏
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Only a Hindu Can Teach about Hinduism. - Garuda
-</p>
+This is the Website of Garuda. I write about Religion and Science.<br>
 
-This is the Website of Garuda. I write about Religion and Science. I am a Hindu and My goal is to make people understand Hinduism , to eliminate the disinformation they may have attained from some Sources.
+This site is a work in Progress. So, I am going to write more content as time passes.
 
 You can find all of my articles  <a class="internal-link" href="/articles">Here</a>.
 
 ## Tags
-1.[[tag-hinduism]]<br>
+[[tag-hinduism]]
 
 ## Special Pages
 
-<a class="internal-link" href="/articles">Articles</a>.<br>
-<a class="internal-link" href="/images">All Images</a>.<br>
-<a class="internal-link" href="/about">About</a>.<br>
+<a class="internal-link" href="/articles">Articles</a><br>
+<a class="internal-link" href="/images">All Images</a><br>
+<a class="internal-link" href="/about">About</a><br>
 
 
