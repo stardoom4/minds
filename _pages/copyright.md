@@ -1,3 +1,7 @@
+---
+layout: page
+title: Copyright
+---
 ## Attribution 4.0 International (CC BY 4.0)
 
 **You are Free to:**<br>
