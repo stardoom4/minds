@@ -17,3 +17,11 @@ You can find all of my articles  <a class="internal-link" href="/articles">Here<
 
 ## Tags
 1.[[tag-hinduism]]<br>
+
+## Special Pages
+
+<a class="internal-link" href="/articles">Articles</a>.<br>
+<a class="internal-link" href="/images">All Images</a>.<br>
+<a class="internal-link" href="/about">About</a>.<br>
+
+
