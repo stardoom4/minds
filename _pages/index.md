@@ -11,14 +11,13 @@ permalink: /
 
 You can find all of my articles  <a class="internal-link" href="/articles">Here</a>.
 
-## Tags
+<strong>Tags:</strong><br>
 [[tag-hinduism]]
 
-<p style="padding: 3em 1em; background: #fff3b0; border-radius: 4px;">
+
 <strong>Special Page:</strong><br>
 
 <a class="internal-link" href="/articles">Articles</a><br>
 <a class="internal-link" href="/images">All Images</a><br>
 <a class="internal-link" href="/about">About</a><br>
-</p>
 
