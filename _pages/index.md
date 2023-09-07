@@ -5,11 +5,9 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🙏
+# Welcome! 
 
-This is the Website of Garuda. I write about Religion and Science.<br>
-
-This site is a work in Progress. So, I am going to write more content as time passes.
+<center><h2>Website is being developed by Garuda</h2></center>
 
 You can find all of my articles  <a class="internal-link" href="/articles">Here</a>.
 
