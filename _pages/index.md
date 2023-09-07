@@ -14,7 +14,7 @@ You can find all of my articles  <a class="internal-link" href="/articles">Here<
 ## Tags
 [[tag-hinduism]]
 
-<p style="padding: 3em 1em; background: #f6f5f1; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #fff3b0; border-radius: 4px;">
 <strong>Special Page:</strong><br>
 
 <a class="internal-link" href="/articles">Articles</a><br>
