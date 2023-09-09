@@ -18,6 +18,5 @@ You can find all of my articles  <a class="internal-link" href="/articles">Here<
 <strong>Special Page:</strong><br>
 
 <a class="internal-link" href="/articles">Articles</a><br>
-<a class="internal-link" href="/images">All Images</a><br>
 <a class="internal-link" href="/about">About</a><br>
 
