@@ -5,14 +5,15 @@ id: home
 permalink: /
 ---
 
-# Welcome! 
-
-<center><h2>Website is being developed by Garuda</h2></center>
+<h1>This is My Digital Mind</h1>
+<style>
+  h1 {
+  font-size: 40px;
+}
+</style>
 
 You can find all of my articles  <a class="internal-link" href="/articles">Here</a>.
 
-<strong>Tags:</strong><br>
-[[tag-hinduism]]
 
 
 <strong>Special Page:</strong><br>
