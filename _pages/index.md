@@ -5,7 +5,8 @@ id: home
 permalink: /
 ---
 
-<h1>This is My Digital Mind</h1>
+<h1><strong>This is My Digital Mind</strong></h1>
+<h3>Aspiring physicist, and a Self-Made Consipiracy Theorist.</h3>
 <style>
   h1 {
   font-size: 60px:
