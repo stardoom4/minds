@@ -12,5 +12,9 @@ permalink: /
   font-size: 60px:
 }
 </style>
+<style>
+  h3 {
+  font-style:italic;
+</style>
 
 You can find all of my articles  <a class="internal-link" href="/articles">Here</a>.
