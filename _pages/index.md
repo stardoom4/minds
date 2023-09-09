@@ -9,6 +9,7 @@ permalink: /
 <style>
   h1 {
   font-size: 40px;
+  font-color: #07a5bb;
 }
 </style>
 
