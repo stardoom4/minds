@@ -8,8 +8,7 @@ permalink: /
 <h1>This is My Digital Mind</h1>
 <style>
   h1 {
-  font-size: 40px;
-  font-color: #07a5bb;
+  font-size: 60px:
 }
 </style>
 
