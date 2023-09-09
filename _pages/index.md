@@ -13,11 +13,3 @@ permalink: /
 </style>
 
 You can find all of my articles  <a class="internal-link" href="/articles">Here</a>.
-
-
-
-<strong>Special Page:</strong><br>
-
-<a class="internal-link" href="/articles">Articles</a><br>
-<a class="internal-link" href="/about">About</a><br>
-
