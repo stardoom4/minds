@@ -1,9 +1,9 @@
 $color-primary: hsl(0, 0%, 10%);
 $color-text: #000000;
 $color-subtext: hsl(0, 0%, 30%);
-$color-border: #07a5bb;
+$color-border: #05d9e8;
 $color-box-background: mix($color-primary, white, 4%);
-$border-radius: 4px;
+$border-radius: 8px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
   sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 
@@ -17,7 +17,7 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 63em;
-  background: #fffff5;
+  background: #f9f9f9;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -49,7 +49,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: #fff3b0;
+  background: #fff;
   border-radius: $border-radius;
 
   p {
@@ -79,12 +79,12 @@ h6 {
 a {
   transition: background 300ms;
   padding: 0 0.1em;
-  text-decoration: none;
+  text-decoration: underline;
   border-bottom: 1px solid $color-border;
-  color: #680040;
+  color: #fff;
   &:hover {
-    color: black !important;
-    background: #fffaf1;
+    color: #fff !important;
+    background: #000000;
   }
   &:after {
     position: relative;
@@ -123,7 +123,7 @@ nav {
 }
 
 .backlink-box {
-  background: $color-box-background;
+  background: #f9f9f9;
   padding: 1em;
   border-radius: $border-radius;
 }
