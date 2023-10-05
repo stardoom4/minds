@@ -9,4 +9,4 @@ permalink: /about
 I am Garuda and you have stumbled upon this site’s About Me page. There is nothing about me to tell people ,because i am nothing. Maybe someday, I will write about myself.
 
 ## About This Wiki
-This is a Personal wiki named Celestial Mind. In this Wiki i will write about my Thoughts , Or post images which i liked in <a href="visuals.md">Visuals</a>. 
+This is a Personal wiki named Celestial Mind. In this Wiki i will write about my Thoughts , Or post images which i liked in <a class="internal-link" href="/visuals">Visuals</a>. 
