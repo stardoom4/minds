@@ -91,7 +91,7 @@ a {
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
-    color: #121212;
+    color: #fff;
   }
   &.internal-link:after,
   &.footnote:after,
@@ -144,4 +144,8 @@ code {
 .invalid-link-brackets {
   color: #ccc;
   cursor: help;
+}
+
+.internal-link {
+  background-color: #fff;
 }
