@@ -49,4 +49,4 @@ defaults:
   - scope:
       path: "_wiki/**/*.md"
     values:
-      layout: "note"
+      layout: "wiki"
