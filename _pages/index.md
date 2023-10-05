@@ -13,3 +13,4 @@ permalink: /
 </style>
 
 You can find all of my articles  <a class="internal-link" href="/articles">Here</a>.
+<img src="/assets/image.webp" alt="Temple">
