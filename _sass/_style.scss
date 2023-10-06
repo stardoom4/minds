@@ -81,9 +81,9 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
-  color: #121212;
+  color: #fff;
   &:hover {
-    color: #fff !important;
+    color: #121212 !important;
     background: #fff;
   }
   &:after {
